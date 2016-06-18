@@ -1,8 +1,8 @@
-# FlockOnSphere
+# Flocking on Sphere
 
 ## overview
 3D visual art using processing  
-boids algorithm　on sphere
+boids algorithm on sphere
 
 ## Requirement
 - Processing 3.0.2  
