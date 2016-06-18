@@ -1,6 +1,6 @@
 # FlockOnSphere
 
-## overvieew
+## overview
 3D visual art using processing  
 boids algorithm　on sphere
 
